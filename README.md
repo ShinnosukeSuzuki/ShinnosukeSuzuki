@@ -30,6 +30,9 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinnosukeSuzuki&theme=vue-dark&layout=compact" />
 </div>
 
+## Kaggle
+![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
+![](./kaggle-plates/Competitions/white.svg)
 
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
