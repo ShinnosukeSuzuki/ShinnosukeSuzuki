@@ -31,8 +31,8 @@
 </div>
 
 ## Kaggle
-![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
-![](./kaggle-plates/Competitions/white.svg)
+
+![](./kaggle-plates/Competitions/white.svg)  ![](./kaggle-plates/Datasets/white.svg)  ![](./kaggle-plates/Notebooks/white.svg)  ![](./kaggle-plates/Discussions/white.svg) 
 
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
