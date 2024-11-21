@@ -8,7 +8,7 @@
 
 - 🧑‍💻 I'm a aws cloud engineer. 
 - 🌱 I’m currently learning golang!
-- 📫 How to reach me: [SS@Webエンジニア](https://twitter.com/nNWRPOhv9Z959UH)
+- 📫 How to reach me: [SS@Webエンジニア](https://x.com/ss_web_engineer)
 <br>
 
 
