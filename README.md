@@ -19,7 +19,7 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ts,python,docker,aws,cdk" />
 
 ### ✍️ Learning
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,terraform,gcp" />
 <br>
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
